@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dantapally-Harishwar-Reddy
-- 👀 I’m interested in ... Web Development
+- 👀 I’m interested in ... Web Development,Designing
 - 🌱 I’m currently learning ... Full-Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harishwarreddy6207@gmail.com
